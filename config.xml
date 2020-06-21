@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
-  id          = "com.michael.wysiwygeditor"
+  id          = "com.phonegap-apps.wysiwygeditor"
   version     = "1.0.1"
   versionCode = "15">
   <name>
@@ -10,7 +10,7 @@
   <description>
     Just a simple and basic WYSIWYG Editor.
   </description>
-  <author href="http://mikethedj4.github.io/" email="mikethedj4@yahoo.com">
+  <author href="https://atikur-rabbi.github.io/" email="">
     Michael Schwartz
   </author>
 
@@ -33,5 +33,5 @@
   <icon gap:platform="winphone" gap:role="background" src="res/icon/windows-phone/icon-173-tile.png" />
 
   <preference name="permissions" value="none"/>
-  <preference name="phonegap-version" value="cli-5.2.0" />
+  <preference name="phonegap-version" value="cli-8.0.0" />
 </widget>
